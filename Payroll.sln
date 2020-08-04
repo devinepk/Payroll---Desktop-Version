@@ -5,7 +5,12 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll", "Payroll\Payroll.csproj", "{A551D9C3-F7B9-4E91-B19A-E87E1F46F9D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objects2", "Objects2\Objects2.csproj", "{854EE277-DB23-4B93-BC2F-1B324B7EA73B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Objects2", "Objects2\Objects2.csproj", "{854EE277-DB23-4B93-BC2F-1B324B7EA73B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9770245C-EB4E-4C17-B7E8-14125BB5AC23}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
